@@ -1,4 +1,6 @@
-[Protein](http://en.wikipedia.org/wiki/Protein_folding) folding is the ultimate process where the information contained in [genes](http://en.wikipedia.org/wiki/Gene) is transformed into the final functional unit, an active folded protein from the unfolded [primary amino acid sequence.](http://ghr.nlm.nih.gov/glossary=aminoacidsequence)
+**Protein Folding - the process and its cause**
+
+[Protein folding](https://en.wikipedia.org/wiki/Protein_folding) is the ultimate process where the information contained in [genes](https://en.wikipedia.org/wiki/Gene) is transformed into the final functional unit, an active folded protein from the unfolded [primary amino acid sequence](https://medlineplus.gov/genetics/).
 
 The amino-acid sequence (or primary structure) of a protein determines its native conformation. A protein molecule folds spontaneously during or after biosynthesis. For the most part, scientists have been able to study many identical molecules folding together en masse. At the coarsest level, it appears that in transitioning to the native state, a given amino acid sequence takes on roughly the same route and proceeds through roughly the same intermediates and transition states. Often folding involves first the establishment of regular secondary and super secondary structures, particularly alpha helices and beta sheets, and afterwards tertiary structure. Formation of quaternary structure usually involves the "assembly" or "coassembly" of subunits that have already folded. The regular alpha helix and beta sheet structures fold rapidly because they are stabilized by intramolecular hydrogen bonds, as was first characterized by Linus Pauling. Protein folding may involve covalent bonding in the form of disulfide bridges formed between two cysteine residues or the formation of metal clusters. Shortly before settling into their more energetically favorable native conformation, molecules may pass through an intermediate "molten globule" state.
 
@@ -8,19 +10,46 @@ While these macromolecules may be regarded as "folding themselves", the process 
 
 The essential fact of folding, however, remains that the amino acid sequence of each protein contains the information that specifies both the native structure and the pathway to attain that state. This is not to say that nearly identical amino acid sequences always fold similarly. Conformations differ based on environmental factors as well; similar proteins fold differently based on where they are found.
 
-
 **Motivation :**
 
 Misfolded proteins almost always fail to function correctly. Also excess misfolded protein can accumulate and interfere with the functioning of the cell. Consequently misfolded proteins are a feature of a large number of diseases, including Alzheimer's, Creutzfeldt-Jakob disease (CJD), cystic fibrosis, and many cancers. Understanding the difference in the folding process can bring insight into the causes of these diseases at the molecular level.
 
-**Secondary structure analysis by Circular Dichroism Spectroscopy**  
 
+**Secondary structure analysis by Circular Dichroism Spectroscopy**
 
 Circular Dichroism or CD Spectrocsopy measures the difference in absorption of right and left circularly polarized light. The difference arises if there is asymmetry present in a compact arrangement of chromophores that are within interacting distances. The typical chromophore in a protein or polypeptide is the peptide bond. The spatial juxtaposition of these peptide groups changes as a function of the backbone geometry. It is therefore expected that as the backbone conformation changes, the CD signal will also change. Therefore the CD spectra of polypeptides are highly sensitive to the overall conformation of a polypeptide chain.
 
-CD values are measured as mean residue ellipticities in millidegree units and reported as MRE ([θ] = θ/10 n.l.c) where n is the number of peptide bonds, l is the cuvette pathlength in cm, c is the concentration in Molarity and θ is the observed ellipticity in mdeg. This normalizes concentration or number of peptide bond differences between two samples. The unit of [θ] is: deg.cm2.dmol<sup>-1</sup>.
+CD values are measured as mean residue ellipticities in millidegree units and reported as MRE ([Î¸] = Î¸/10 n.l.c) where n is the number of peptide bonds, l is the cuvette pathlength in cm, c is the concentration in Molarity and Î¸ is the observed ellipticity in mdeg. This normalizes concentration or number of peptide bond differences between two samples. The unit of [Î¸] is: deg.cm2.dmol<sup>-1</sup>.
 
-Theoretical calculations suggest that the random coil conformation gives rise to a negative minimum < 200nm. β-sheet conformation is characterized by one negative band around 216 nm and a positive band around 197 nm. The α- helix gives rise to two negative bands (double minima), around 222nm (n-π*) and 208nm (π-π* parallel) with almost equal intensity. There is also a strong positive band at around 192nm (π-π* perpendicular).
+Theoretical calculations suggest that the random coil conformation gives rise to a negative minimum < 200nm. Î²-sheet conformation is characterized by one negative band around 216 nm and a positive band around 197 nm. The Î±- helix gives rise to two negative bands (double minima), around 222nm (n-Ï*) and 208nm (Ï-Ï* parallel) with almost equal intensity. There is also a strong positive band at around 192nm (Ï-Ï* perpendicular).
+
+
+**Relationship between regions of the CD spectrum and protein structural types.**
+
+
+
+Protein backbone. 	Aromatic amino acids.
+CD sensitive to secondary structure change. 	CD sensitive to tertiary structure change.
+170nm 	Far-UV 	250nm 	NearUV
+Structural types identified:
+
+    Alpha helix
+    Beta sheet
+    Beta turn
+    Polyproline
+    Irregular
+
+	Structural types identified:
+
+    Phenylalanine
+    Tyrosine
+    Tryptophan
+    Disulphide bonds
+
+
+Changes in the circular dichroism spectra of bio-molecules represent changes in their secondary and tertiary structures. When this is coupled with the facts that (i) spectra can be recorded in minutes and (ii) single wavelength kinetics can be recorded from milliseconds onwards, it can be seen that CD is a particularly powerful tool to follow dynamic changes in protein structure. For instance, changes induced by changing temperature, pH, ligands, or denaturants are all commonly studied.
+
+Theoretical calculations suggest that the random coil conformation gives rise to a negative minimum < 200nm. ¦Â-sheet conformation is characterized by one negative band around 216 nm and a positive band around 197 nm. The ¦Á- helix gives rise to two negative bands (double minima), around 222nm (n-¦Ð*) and 208nm (¦Ð-¦Ð* parallel) with almost equal intensity. There is also a strong positive band at around 192nm (¦Ð-¦Ð* perpendicular).  
 
 Relationship between regions of the CD spectrum and protein structural types. 
 <img src="images/table.png"> 
@@ -28,19 +57,19 @@ Relationship between regions of the CD spectrum and protein structural types.
 
 Changes in the circular dichroism spectra of bio-molecules represent changes in their secondary and tertiary structures. When this is coupled with the facts that (i) spectra can be recorded in minutes and (ii) single wavelength kinetics can be recorded from milliseconds onwards, it can be seen that CD is a particularly powerful tool to follow dynamic changes in protein structure. For instance, changes induced by changing temperature, pH, ligands, or denaturants are all commonly studied.  
 
-
 **CD spectroscopy and its use to study thermal denaturation of protein:**
 
 Continuing from what we have learnt in experiment 6 and 7, the far UV region of a protein circular dichroism (CD) spectrum shows spectral features related to the structure of the backbone of the protein, and is directly relevant to the secondary structural elements that make up the protein structure. The spectral signatures can be used to predict the secondary structure makeup of a particular proteins structure as discussed in experiments 6 and 7. We can also similarly analyze the protein's secondary structure against **temperature** as the parameters as sighted below i.e. the process of thermal denaturation of protein with CD spectra.
 
 Far-UV CD spectrum thermal denaturation of lysozyme  
 
+
+This picture is taken from the website of Applied Photophysics Ltd, 21 Mole Business Park, Leatherhead,Surrey KT22 7AG, United Kingdom
 <img src="images/1.jpg">
 <br/>
 
-This picture is taken from the website of Applied Photophysics Ltd, 21 Mole Business Park, Leatherhead,Surrey KT22 7AG, United Kingdom.
 
-The above figure illustrates clearly the change in CD signature as a function of temperature. Comparison of known CD signatures with the data in this experiment suggests that the initial CD signature is a combination of α-helical and β-sheet structure which, on heating, loses much of its α-helical content to an unfolded state, whilst retaining some β-sheet character.
+The above figure illustrates clearly the change in CD signature as a function of temperature. Comparison of known CD signatures with the data in this experiment suggests that the initial CD signature is a combination of Î±-helical and Î²-sheet structure which, on heating, loses much of its Î±-helical content to an unfolded state, whilst retaining some Î²-sheet character.
 
 
 **Protein Denaturation**
