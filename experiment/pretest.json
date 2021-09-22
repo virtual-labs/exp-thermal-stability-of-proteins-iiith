@@ -1,0 +1,38 @@
+[
+{"question":"1. The passage of folded state of a protein is opposed by:",
+"answer":{
+         "a":"hydrophobic interaction",
+         "b":"formation of hydrogen bonds",
+         "c":"formation of hydrogen bonds",
+         "d":"Van der Waals forces"
+         },
+"correctanswers":"c"},
+
+{"question":"2. The regular alpha helix and beta sheet structures fold rapidly because they are stabilized by: ",
+"answer":{
+         "a":"intermolecular hydrogen bonding",
+         "b":"Van der Waals forces",
+         "c":"inert pair effect",
+         "d":"intramolecular hydrogen bonding"
+         },
+"correctanswer":"d"},
+
+{"question":"3. Denaturation midpoint is defined as that temperature (Tm) or denaturant concentration (Cm) at which:",
+"answer":{
+         "a":"both the folded and unfolded states are over populated.",
+         "b":"the folded state is over populated than the unfolded state.",
+         "c":"the folded state is under populated than the unfolded state.",
+         "d":"both the folded and unfolded states are equally populated."
+         },
+"correctanswers":"d"},
+
+{"question":"4. The helix that forms in a protein chain as a result of hydrogen bonds and other weak forces is an example of",
+"answer":{
+         "a":"primary structure of protein.",
+         "b":"secondary structure of protein",
+         "c":"tertiary structure of protein.",
+         "d":"non-linear structure of protein"
+         },
+"correctanswer":"b"}
+
+]
