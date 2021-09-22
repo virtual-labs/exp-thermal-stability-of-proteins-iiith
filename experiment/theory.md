@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-
 **Protein Folding - the process and its cause**
 
 [Protein folding](https://en.wikipedia.org/wiki/Protein_folding) is the ultimate process where the information contained in [genes](https://en.wikipedia.org/wiki/Gene) is transformed into the final functional unit, an active folded protein from the unfolded [primary amino acid sequence](https://medlineplus.gov/genetics/).
-=======
-[Protein](http://en.wikipedia.org/wiki/Protein_folding) folding is the ultimate process where the information contained in [genes](http://en.wikipedia.org/wiki/Gene) is transformed into the final functional unit, an active folded protein from the unfolded [primary amino acid sequence.](http://ghr.nlm.nih.gov/glossary=aminoacidsequence)
->>>>>>> d9bb2d2c202324b0582cf362d816aa74edeac0a3
 
 The amino-acid sequence (or primary structure) of a protein determines its native conformation. A protein molecule folds spontaneously during or after biosynthesis. For the most part, scientists have been able to study many identical molecules folding together en masse. At the coarsest level, it appears that in transitioning to the native state, a given amino acid sequence takes on roughly the same route and proceeds through roughly the same intermediates and transition states. Often folding involves first the establishment of regular secondary and super secondary structures, particularly alpha helices and beta sheets, and afterwards tertiary structure. Formation of quaternary structure usually involves the "assembly" or "coassembly" of subunits that have already folded. The regular alpha helix and beta sheet structures fold rapidly because they are stabilized by intramolecular hydrogen bonds, as was first characterized by Linus Pauling. Protein folding may involve covalent bonding in the form of disulfide bridges formed between two cysteine residues or the formation of metal clusters. Shortly before settling into their more energetically favorable native conformation, molecules may pass through an intermediate "molten globule" state.
 
@@ -15,31 +10,21 @@ While these macromolecules may be regarded as "folding themselves", the process 
 
 The essential fact of folding, however, remains that the amino acid sequence of each protein contains the information that specifies both the native structure and the pathway to attain that state. This is not to say that nearly identical amino acid sequences always fold similarly. Conformations differ based on environmental factors as well; similar proteins fold differently based on where they are found.
 
-<<<<<<< HEAD
-=======
-
->>>>>>> d9bb2d2c202324b0582cf362d816aa74edeac0a3
 **Motivation :**
 
 Misfolded proteins almost always fail to function correctly. Also excess misfolded protein can accumulate and interfere with the functioning of the cell. Consequently misfolded proteins are a feature of a large number of diseases, including Alzheimer's, Creutzfeldt-Jakob disease (CJD), cystic fibrosis, and many cancers. Understanding the difference in the folding process can bring insight into the causes of these diseases at the molecular level.
 
-<<<<<<< HEAD
 
 **Secondary structure analysis by Circular Dichroism Spectroscopy**
-=======
-**Secondary structure analysis by Circular Dichroism Spectroscopy**  
-
->>>>>>> d9bb2d2c202324b0582cf362d816aa74edeac0a3
 
 Circular Dichroism or CD Spectrocsopy measures the difference in absorption of right and left circularly polarized light. The difference arises if there is asymmetry present in a compact arrangement of chromophores that are within interacting distances. The typical chromophore in a protein or polypeptide is the peptide bond. The spatial juxtaposition of these peptide groups changes as a function of the backbone geometry. It is therefore expected that as the backbone conformation changes, the CD signal will also change. Therefore the CD spectra of polypeptides are highly sensitive to the overall conformation of a polypeptide chain.
 
-CD values are measured as mean residue ellipticities in millidegree units and reported as MRE ([¦È] = ¦È/10 n.l.c) where n is the number of peptide bonds, l is the cuvette pathlength in cm, c is the concentration in Molarity and ¦È is the observed ellipticity in mdeg. This normalizes concentration or number of peptide bond differences between two samples. The unit of [¦È] is: deg.cm2.dmol-1.
+CD values are measured as mean residue ellipticities in millidegree units and reported as MRE ([ÃŽÂ¸] = ÃŽÂ¸/10 n.l.c) where n is the number of peptide bonds, l is the cuvette pathlength in cm, c is the concentration in Molarity and ÃŽÂ¸ is the observed ellipticity in mdeg. This normalizes concentration or number of peptide bond differences between two samples. The unit of [ÃŽÂ¸] is: deg.cm2.dmol<sup>-1</sup>.
 
-<<<<<<< HEAD
-Theoretical calculations suggest that the random coil conformation gives rise to a negative minimum < 200nm. ¦Â-sheet conformation is characterized by one negative band around 216 nm and a positive band around 197 nm. The ¦Á- helix gives rise to two negative bands (double minima), around 222nm (n-¦Ð*) and 208nm (¦Ð-¦Ð* parallel) with almost equal intensity. There is also a strong positive band at around 192nm (¦Ð-¦Ð* perpendicular).
+Theoretical calculations suggest that the random coil conformation gives rise to a negative minimum < 200nm. ÃŽÂ²-sheet conformation is characterized by one negative band around 216 nm and a positive band around 197 nm. The ÃŽÂ±- helix gives rise to two negative bands (double minima), around 222nm (n-ÃÂ€*) and 208nm (ÃÂ€-ÃÂ€* parallel) with almost equal intensity. There is also a strong positive band at around 192nm (ÃÂ€-ÃÂ€* perpendicular).
+
 
 **Relationship between regions of the CD spectrum and protein structural types.**
-
 
 
 
@@ -64,64 +49,31 @@ Structural types identified:
 
 Changes in the circular dichroism spectra of bio-molecules represent changes in their secondary and tertiary structures. When this is coupled with the facts that (i) spectra can be recorded in minutes and (ii) single wavelength kinetics can be recorded from milliseconds onwards, it can be seen that CD is a particularly powerful tool to follow dynamic changes in protein structure. For instance, changes induced by changing temperature, pH, ligands, or denaturants are all commonly studied.
 
-=======
-Theoretical calculations suggest that the random coil conformation gives rise to a negative minimum < 200nm. ¦Â-sheet conformation is characterized by one negative band around 216 nm and a positive band around 197 nm. The ¦Á- helix gives rise to two negative bands (double minima), around 222nm (n-¦Ð*) and 208nm (¦Ð-¦Ð* parallel) with almost equal intensity. There is also a strong positive band at around 192nm (¦Ð-¦Ð* perpendicular).  
+Theoretical calculations suggest that the random coil conformation gives rise to a negative minimum < 200nm. Â¦Ã‚-sheet conformation is characterized by one negative band around 216 nm and a positive band around 197 nm. The Â¦Ã- helix gives rise to two negative bands (double minima), around 222nm (n-Â¦Ã*) and 208nm (Â¦Ã-Â¦Ã* parallel) with almost equal intensity. There is also a strong positive band at around 192nm (Â¦Ã-Â¦Ã* perpendicular).  
 
-Relationship between regions of the CD spectrum and protein structural types.
+Relationship between regions of the CD spectrum and protein structural types. 
 <img src="images/table.png"> 
 <br/>
 
 Changes in the circular dichroism spectra of bio-molecules represent changes in their secondary and tertiary structures. When this is coupled with the facts that (i) spectra can be recorded in minutes and (ii) single wavelength kinetics can be recorded from milliseconds onwards, it can be seen that CD is a particularly powerful tool to follow dynamic changes in protein structure. For instance, changes induced by changing temperature, pH, ligands, or denaturants are all commonly studied.  
 
-
->>>>>>> d9bb2d2c202324b0582cf362d816aa74edeac0a3
 **CD spectroscopy and its use to study thermal denaturation of protein:**
 
 Continuing from what we have learnt in experiment 6 and 7, the far UV region of a protein circular dichroism (CD) spectrum shows spectral features related to the structure of the backbone of the protein, and is directly relevant to the secondary structural elements that make up the protein structure. The spectral signatures can be used to predict the secondary structure makeup of a particular proteins structure as discussed in experiments 6 and 7. We can also similarly analyze the protein's secondary structure against **temperature** as the parameters as sighted below i.e. the process of thermal denaturation of protein with CD spectra.
 
-Far-UV CD spectrum thermal denaturation of lysozyme
-<<<<<<< HEAD
+Far-UV CD spectrum thermal denaturation of lysozyme  
 
-       [image](images/1.jpg)
 
 This picture is taken from the website of Applied Photophysics Ltd, 21 Mole Business Park, Leatherhead,Surrey KT22 7AG, United Kingdom
-=======
 <img src="images/1.jpg">
 <br/>
 
-This picture is taken from the website of Applied Photophysics Ltd, 21 Mole Business Park, Leatherhead,Surrey KT22 7AG, United Kingdom.
->>>>>>> d9bb2d2c202324b0582cf362d816aa74edeac0a3
 
-The above figure illustrates clearly the change in CD signature as a function of temperature. Comparison of known CD signatures with the data in this experiment suggests that the initial CD signature is a combination of ¦Á-helical and ¦Â-sheet structure which, on heating, loses much of its ¦Á-helical content to an unfolded state, whilst retaining some ¦Â-sheet character.
+The above figure illustrates clearly the change in CD signature as a function of temperature. Comparison of known CD signatures with the data in this experiment suggests that the initial CD signature is a combination of ÃŽÂ±-helical and ÃŽÂ²-sheet structure which, on heating, loses much of its ÃŽÂ±-helical content to an unfolded state, whilst retaining some ÃŽÂ²-sheet character.
 
 
 **Protein Denaturation**
 
-<<<<<<< HEAD
-Protein denaturation is commonly defined as any non covalent change in the structure of a protein. This change may alter the secondary, tertiary or quaternary structure of the molecules. When using this definition it should be noted that what constitutes denaturation is largely dependent upon the method utilized to observe the protein molecule. Some methods can detect very slight changes in structure while other requires rather large alterations in structure before changes are observed.
-
-**Mechanism of protein denaturation:**
-
-Denaturation of proteins involves the disruption and possible destruction of both the secondary and tertiary structures. Since denaturation reactions are not strong enough to break the peptide bonds, the primary structure (sequence of amino acids) remains the same after a denaturation process. Denaturation disrupts the normal alpha-helix and beta-sheets in a protein and uncoils it into a random shape.
-
-
-**How denaturation occurs at levels of protein structure:**
-
-    - In quaternary structure denaturation, protein sub-units are dissociated and/or the spatial arrangement of protein subunits is disrupted.
-    
-    - Tertiary structure denaturation involves the disruption of:
-    
-        i. Covalent interactions between amino acid side-chains (such as disulfide bridges between cysteine groups)
-	
-        ii. Noncovalent dipole-dipole interactions between polar amino acid side-chains (and the surrounding solvent)
-
-	iii. Van der Waals (induced dipole) interactions between nonpolar amino acid side-chains.
-
-    - In secondary structure denaturation, proteins lose all regular repeating patterns such as alpha-helices and beta-pleated sheets, and adopt a random coil configuration.
-
-    - Primary structure, such as the sequence of amino acids held together by covalent peptide bonds, is not disrupted by denaturation.
-
-=======
 Protein denaturation is commonly defined as any non covalent change in the structure of a protein. This change may alter the secondary, tertiary or quaternary structure of the molecules. When using this definition it should be noted that what constitutes denaturation is largely dependent upon the method utilized to observe the protein molecule. Some methods can detect very slight changes in structure while other requires rather large alterations in structure before changes are observed.  
 
 **Mechanism of protein denaturation:**
@@ -137,7 +89,6 @@ Denaturation of proteins involves the disruption and possible destruction of bot
    iii. Van der Waals (induced dipole) interactions between nonpolar amino acid side-chains.  
 3. In secondary structure denaturation, proteins lose all regular repeating patterns such as alpha-helices and beta-pleated sheets, and adopt a random coil configuration.  
 4. Primary structure, such as the sequence of amino acids held together by covalent peptide bonds, is not disrupted by denaturation.  
->>>>>>> d9bb2d2c202324b0582cf362d816aa74edeac0a3
 
 
 **Thermal Denaturation**
@@ -154,33 +105,19 @@ The effect of exposure of new hydrogen bonding groups and of hydrophobic groups 
 
 The increased water binding noted in the early stages of denaturation may be retained following hydrophobic aggregations. The loss of solubility that occurs will greatly reduce the viscosity to a level below that of the native proteins.
 
-<<<<<<< HEAD
-Under some conditions proteins will not fold into their biochemically functional forms. Temperatures above or below the range that cells tend to live in will cause thermally unstable proteins to unfold or "denature" (this is why boiling makes an egg white turn opaque). High concentrations of solutes, extremes of pH, mechanical forces, and the presence of chemical denaturants can do the same. Protein thermal stability is far from constant, however. For example, hyperthermophilic bacteria have been found that grow at temperatures as high as 122 ¡ãC, which of course requires that their full complement of vital proteins and protein assemblies be stable at that temperature or above.
-
-Exposure of most proteins to high temperatures results in irreversible denaturation. Some proteins, like caseins, however, contain little if any secondary structure and have managed to remove their hydrophobic groups from contact with the solvent without the need for extensive structure. This lack of secondary structure causes these proteins to be extremely resistant to thermal denaturation.
-=======
 Under some conditions proteins will not fold into their biochemically functional forms. Temperatures above or below the range that cells tend to live in will cause thermally unstable proteins to unfold or "denature" (this is why boiling makes an egg white turn opaque). High concentrations of solutes, extremes of pH, mechanical forces, and the presence of chemical denaturants can do the same. Protein thermal stability is far from constant, however. For example, hyperthermophilic bacteria have been found that grow at temperatures as high as 122<sup>o</sup>C, which of course requires that their full complement of vital proteins and protein assemblies be stable at that temperature or above.
 
 Exposure of most proteins to high temperatures results in irreversible denaturation. Some proteins, like caseins, however, contain little if any secondary structure and have managed to remove their hydrophobic groups from contact with the solvent without the need for extensive structure. This lack of secondary structure causes these proteins to be extremely resistant to thermal denaturation.  
->>>>>>> d9bb2d2c202324b0582cf362d816aa74edeac0a3
 
 **Thermal denaturation of protein (by circular dichroism):**
 
 This protocol is used to determine the stability of protein. The thermal denaturation of protein can be monitored by circular dichroism spectrum .As explained in this theory portion above, Circular dichroism is one of the most general and basic tools to study protein folding. Circular dichroism spectroscopy measures the absorption of circularly polarized light. In proteins, structures such as alpha helicies and beta sheets are chiral, and thus absorb such light. The absorption of this light acts as a marker of the degree of foldedness of the protein ensemble. This technique can be used to measure equilibrium unfolding of the protein by measuring the change in this absorption as a function of denaturant concentration or temperature. Usually, one wavelength (we use 222nm for our helical protein) is chosen to monitor. A denaturant melt measures the free energy of unfolding as well as the protein's Tm value.
 
-<<<<<<< HEAD
-
-=======
->>>>>>> d9bb2d2c202324b0582cf362d816aa74edeac0a3
 **Denaturation midpoint:**
 
 The transition midpoint (Tm) is the temperature where 50% of the protein is in its native conformation and the other 50% is in maximum denatured / unfolded conformation. The higher the Tm, the more stable is the molecule. In this experiment, it is determined by measuring a series of CD spectra of the protein at various temperatures, the transition temperature is usually taken as the point where 50% of the protein structure is in maximally unfolded state.
 
-<<<<<<< HEAD
-This type of spectroscopy can also be combined with fast-mixing devices, such as stopped flow, to measure protein folding kinetics and to generate chevron plots. **In this experiment we will study the effect of temperature on protein denaturation using Rhodopsin as a model system.**
-=======
 *This type of spectroscopy can also be combined with fast-mixing devices, such as stopped flow, to measure protein folding kinetics and to generate chevron plots.**In this experiment we will study the effect of temperature on protein denaturation using Rhodopsin as a model system**.*
->>>>>>> d9bb2d2c202324b0582cf362d816aa74edeac0a3
 
 
 **RHODOPSIN**
@@ -199,11 +136,7 @@ Mutation of the rhodopsin gene is a major contributor to various retinopathies s
 
 **Structure**
 
-<<<<<<< HEAD
-Rhodopsin consists of the protein moiety opsin and a reversibly covalently bound cofactor, retinal. **Opsin, a bundle of seven transmembrane helices connected to each other by protein loops, binds retinal (a photoreactive chromophore), which is located in a central pocket on the seventh helix at a lysine residue. Retinal lies horizontally with relation to the membrane. Each outer segment disc contains thousands of visual pigment molecules. About half the opsin is within the lipid bilayer**. Retinal is produced in the retina from Vitamin A, from dietary beta-carotene. Isomerization of 11-cis-retinal into all-trans-retinal by light induces a conformational change (bleaching) in opsin continuing with metarhodopsin II, which activates the associated G protein transducin and triggers a second messenger cascade.
-=======
 Rhodopsin consists of the protein moiety **opsin** and a reversibly covalently bound cofactor, retinal. **Opsin, a bundle of seven transmembrane helices connected to each other by protein loops, binds retinal (a photoreactive chromophore), which is located in a central pocket on the seventh helix at a lysine residue. Retinal lies horizontally with relation to the membrane. Each outer segment disc contains thousands of visual pigment molecules. About half the opsin is within the lipid bilayer**. Retinal is produced in the retina from Vitamin A, from dietary beta-carotene. Isomerization of 11-cis-retinal into all-trans-retinal by light induces a conformational change (bleaching) in opsin continuing with metarhodopsin II, which activates the associated G protein transducin and triggers a second messenger cascade.
->>>>>>> d9bb2d2c202324b0582cf362d816aa74edeac0a3
 
 The structure of rhodopsin has been studied in detail via x-ray crystallography on rhodopsin crystals. Several models (e.g. the bicycle-pedal mechanism, hula-twist mechanism) attempt to explain how the retinal group can change its conformation without clashing with the enveloping rhodopsin protein pocket.
 
