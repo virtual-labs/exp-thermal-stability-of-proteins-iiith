@@ -1,0 +1,38 @@
+[
+{"question":"1. When an egg is fried, what happens to the protein in the egg?",
+"answer":{
+         "a":"amino acids form new proteins",
+         "b":"the protein is denatured",
+         "c":"because the heat removes water, the hydrophilic amino acids leave the pan",
+         "d":"the heat converts the protein into water"
+         },
+"correctanswers":"b"},
+
+{"question":"2. Denaturation of proteins doesn't involves the disruption of: ",
+"answer":{
+         "a":"Quaternary structure.",
+         "b":"Secondary structure.",
+         "c":"Primary structure.",
+         "d":"Tertiary structure."
+         },
+"correctanswer":"c"},
+
+{"question":"3. Heat can be used to disrupt hydrogen bonds and non-polar hydrophobic interactions because: ",
+"answer":{
+         "a":"increase in ionic repulsion.",
+         "b":"increase in kinetic energy.",
+         "c":"increase in potential energy.",
+         "d":"none of the above."
+         },
+"correctanswers":"b"},
+
+{"question":"4. Rhodopsin consists of the protein moiety opsin. Opsin consists of a bundle of how many transmembrane helices? ",
+"answer":{
+         "a":"4",
+         "b":"9",
+         "c":"7",
+         "d":"5"
+         },
+"correctanswer":"c"}
+
+]
