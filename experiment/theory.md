@@ -18,11 +18,11 @@ Misfolded proteins almost always fail to function correctly. Also excess misfold
 
 Circular Dichroism or CD Spectrocsopy measures the difference in absorption of right and left circularly polarized light. The difference arises if there is asymmetry present in a compact arrangement of chromophores that are within interacting distances. The typical chromophore in a protein or polypeptide is the peptide bond. The spatial juxtaposition of these peptide groups changes as a function of the backbone geometry. It is therefore expected that as the backbone conformation changes, the CD signal will also change. Therefore the CD spectra of polypeptides are highly sensitive to the overall conformation of a polypeptide chain.
 
-CD values are measured as mean residue ellipticities in millidegree units and reported as MRE ([¦È] = ¦È/10 n.l.c) where n is the number of peptide bonds, l is the cuvette pathlength in cm, c is the concentration in Molarity and ¦È is the observed ellipticity in mdeg. This normalizes concentration or number of peptide bond differences between two samples. The unit of [¦È] is: deg.cm2.dmol-1.
+CD values are measured as mean residue ellipticities in millidegree units and reported as MRE ([Î¸] = Î¸/10 n.l.c) where n is the number of peptide bonds, l is the cuvette pathlength in cm, c is the concentration in Molarity and Î¸ is the observed ellipticity in mdeg. This normalizes concentration or number of peptide bond differences between two samples. The unit of [Î¸] is: deg.cm2.dmol<sup>-1</sup>.
 
-Theoretical calculations suggest that the random coil conformation gives rise to a negative minimum < 200nm. ¦Â-sheet conformation is characterized by one negative band around 216 nm and a positive band around 197 nm. The ¦Á- helix gives rise to two negative bands (double minima), around 222nm (n-¦Ð*) and 208nm (¦Ð-¦Ð* parallel) with almost equal intensity. There is also a strong positive band at around 192nm (¦Ð-¦Ð* perpendicular).  
+Theoretical calculations suggest that the random coil conformation gives rise to a negative minimum < 200nm. Î²-sheet conformation is characterized by one negative band around 216 nm and a positive band around 197 nm. The Î±- helix gives rise to two negative bands (double minima), around 222nm (n-Ï€*) and 208nm (Ï€-Ï€* parallel) with almost equal intensity. There is also a strong positive band at around 192nm (Ï€-Ï€* perpendicular).
 
-Relationship between regions of the CD spectrum and protein structural types.
+Relationship between regions of the CD spectrum and protein structural types. 
 <img src="images/table.png"> 
 <br/>
 
@@ -33,13 +33,14 @@ Changes in the circular dichroism spectra of bio-molecules represent changes in 
 
 Continuing from what we have learnt in experiment 6 and 7, the far UV region of a protein circular dichroism (CD) spectrum shows spectral features related to the structure of the backbone of the protein, and is directly relevant to the secondary structural elements that make up the protein structure. The spectral signatures can be used to predict the secondary structure makeup of a particular proteins structure as discussed in experiments 6 and 7. We can also similarly analyze the protein's secondary structure against **temperature** as the parameters as sighted below i.e. the process of thermal denaturation of protein with CD spectra.
 
-Far-UV CD spectrum thermal denaturation of lysozyme
+Far-UV CD spectrum thermal denaturation of lysozyme  
+
 <img src="images/1.jpg">
 <br/>
 
 This picture is taken from the website of Applied Photophysics Ltd, 21 Mole Business Park, Leatherhead,Surrey KT22 7AG, United Kingdom.
 
-The above figure illustrates clearly the change in CD signature as a function of temperature. Comparison of known CD signatures with the data in this experiment suggests that the initial CD signature is a combination of ¦Á-helical and ¦Â-sheet structure which, on heating, loses much of its ¦Á-helical content to an unfolded state, whilst retaining some ¦Â-sheet character.
+The above figure illustrates clearly the change in CD signature as a function of temperature. Comparison of known CD signatures with the data in this experiment suggests that the initial CD signature is a combination of Î±-helical and Î²-sheet structure which, on heating, loses much of its Î±-helical content to an unfolded state, whilst retaining some Î²-sheet character.
 
 
 **Protein Denaturation**
