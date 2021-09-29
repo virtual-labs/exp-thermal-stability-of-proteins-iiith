@@ -1,7 +1,9 @@
 1. **Video Tutorial**
 
-
-click here to ENLARGE.
+<param name="movie" value="manual_exp8.swf"></param>
+<p><embed border="5" src="manual_exp8.swf"></embed>
+</p>
+<p>click <a href="manual_exp8.swf" target="_blank">here</a> to ENLARGE.</p>
 
 
 2. **Step-by-step Procedure**
