@@ -1,4 +1,4 @@
- /////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////
 
  /////////////////////// Do not modify the below code ////////////////////////
 
@@ -89,24 +89,98 @@
 
 
      const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1. The passage of folded state of a protein is opposed by: ", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "hydrophobic interaction", ///// Write the option 1 inside double quotes
+                b: "formation of hydrogen bonds", ///// Write the option 2 inside double quotes
+	        c: "conformational entropy", ///// Write the option 1 inside double quotes
+                d: "Van der Waals forces", ///// Write the option 2 inside double quotes	
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "c" ///// Write the correct option inside double quotes
         },
 
-    {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
-      answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },
+	{		  
+            question: "2. The regular alpha helix and beta sheet structures fold rapidly because they are stabilized by:  ", ///// Write the question inside double quotes
+            answers: {
+                a: "intermolecular hydrogen bonding", ///// Write the option 1 inside double quotes
+                b: "Van der Waals forces", ///// Write the option 2 inside double quotes
+	        c: "inert pair effect", ///// Write the option 1 inside double quotes
+                d: "intramolecular hydrogen bonding", ///// Write the option 2 inside double quotes	
+            },
+            correctAnswer: "d" ///// Write the correct option inside double quotes
+	 },
+
+	   {
+	   
+            question: "3. Denaturation midpoint is defined as that temperature (Tm) or denaturant concentration (Cm) at which:  ", ///// Write the question inside double quotes
+            answers: {
+                a: "both the folded and unfolded states are over populated.", ///// Write the option 1 inside double quotes
+                b: "the folded state is over populated than the unfolded state.", ///// Write the option 2 inside double quotes
+	        c: "the folded state is under populated than the unfolded state.", ///// Write the option 1 inside double quotes
+                d: "both the folded and unfolded states are equally populated.", ///// Write the option 2 inside double quotes	
+            },
+            correctAnswer: "d" ///// Write the correct option inside double quotes
+        },	   
+
+         {
+  
+            question: "4. The helix that forms in a protein chain as a result of hydrogen bonds and other weak forces is an example of ", ///// Write the question inside double quotes
+            answers: {
+                a: "primary structure of protein.", ///// Write the option 1 inside double quotes
+                b: "secondary structure of protein.", ///// Write the option 2 inside double quotes
+	        c: "tertiary structure of protein.", ///// Write the option 1 inside double quotes
+                d: "non-linear structure of protein", ///// Write the option 2 inside double quotes	
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+        },
+
+         {
+            question: "5. When an egg is fried, what happens to the protein in the egg?  ", ///// Write the question inside double quotes
+            answers: {
+                a: "amino acids form new proteins", ///// Write the option 1 inside double quotes
+                b: "the protein is denatured", ///// Write the option 2 inside double quotes
+	        c: "because the heat removes water, the hydrophilic amino acids leave the pan", ///// Write the option 1 inside double quotes
+                d: "the heat converts the protein into water", ///// Write the option 2 inside double quotes	
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+        },
 
 
+{		  
+            question: "6. Denaturation of proteins doesn't involves the disruption of: ", ///// Write the question inside double quotes
+            answers: {
+                a: "Quaternary structure.", ///// Write the option 1 inside double quotes
+                b: "Secondary structure.", ///// Write the option 2 inside double quotes
+	        c: "Primary structure.", ///// Write the option 1 inside double quotes
+                d: "Tertiary structure.", ///// Write the option 2 inside double quotes	
+            },
+            correctAnswer: "c" ///// Write the correct option inside double quotes
+	 },
+
+
+{		  
+            question: "7. Heat can be used to disrupt hydrogen bonds and non-polar hydrophobic interactions because: ", ///// Write the question inside double quotes
+            answers: {
+                a: "increase in ionic repulsion.", ///// Write the option 1 inside double quotes
+                b: "increase in kinetic energy.", ///// Write the option 2 inside double quotes
+	        c: "increase in potential energy.", ///// Write the option 1 inside double quotes
+                d: "none of the above.", ///// Write the option 2 inside double quotes	
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+	 },
+
+
+{		  
+            question: "8. Rhodopsin consists of the protein moiety opsin. Opsin consists of a bundle of how many transmembrane helices?  ", ///// Write the question inside double quotes
+            answers: {
+                a: "4", ///// Write the option 1 inside double quotes
+                b: "9", ///// Write the option 2 inside double quotes
+	        c: "7", ///// Write the option 1 inside double quotes
+                d: "5", ///// Write the option 2 inside double quotes	
+            },
+            correctAnswer: "c" ///// Write the correct option inside double quotes
+	 },
+			  
 
      ];
 
