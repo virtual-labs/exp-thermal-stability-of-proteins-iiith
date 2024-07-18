@@ -6,7 +6,7 @@
          "c":"formation of hydrogen bonds",
          "d":"Van der Waals forces"
          },
-"correctanswers":"c"},
+"correctAnswer":"c"},
 
 {"question":"2. The regular alpha helix and beta sheet structures fold rapidly because they are stabilized by: ",
 "answers":{
@@ -15,7 +15,7 @@
          "c":"inert pair effect",
          "d":"intramolecular hydrogen bonding"
          },
-"correctanswers":"d"},
+"correctAnswer":"d"},
 
 {"question":"3. Denaturation midpoint is defined as that temperature (Tm) or denaturant concentration (Cm) at which:",
 "answers":{
@@ -24,7 +24,7 @@
          "c":"the folded state is under populated than the unfolded state.",
          "d":"both the folded and unfolded states are equally populated."
          },
-"correctanswers":"d"},
+"correctAnswer":"d"},
 
 {"question":"4. The helix that forms in a protein chain as a result of hydrogen bonds and other weak forces is an example of",
 "answers":{
@@ -33,6 +33,6 @@
          "c":"tertiary structure of protein.",
          "d":"non-linear structure of protein"
          },
-"correctanswers":"b"}
+"correctAnswer":"b"}
 
 ]

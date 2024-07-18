@@ -6,7 +6,7 @@
          "c":"because the heat removes water, the hydrophilic amino acids leave the pan",
          "d":"the heat converts the protein into water"
          },
-"correctanswers":"b"},
+"correctAnswer":"b"},
 
 {"question":"2. Denaturation of proteins doesn't involves the disruption of: ",
 "answers":{
@@ -15,7 +15,7 @@
          "c":"Primary structure.",
          "d":"Tertiary structure."
          },
-"correctanswer":"c"},
+"correctAnswer":"c"},
 
 {"question":"3. Heat can be used to disrupt hydrogen bonds and non-polar hydrophobic interactions because: ",
 "answers":{
@@ -24,7 +24,7 @@
          "c":"increase in potential energy.",
          "d":"none of the above."
          },
-"correctanswers":"b"},
+"correctAnswer":"b"},
 
 {"question":"4. Rhodopsin consists of the protein moiety opsin. Opsin consists of a bundle of how many transmembrane helices? ",
 "answers":{
@@ -33,6 +33,6 @@
          "c":"7",
          "d":"5"
          },
-"correctanswers":"c"}
+"correctAnswer":"c"}
 
 ]
