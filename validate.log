@@ -1,0 +1,11 @@
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-thermal-stability-of-proteins-iiith/exp-thermal-stability-of-proteins-iiith/experiment-descriptor.json'
+  ],
+  files: [
+    '/home/runner/work/exp-thermal-stability-of-proteins-iiith/exp-thermal-stability-of-proteins-iiith/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+Validated true
